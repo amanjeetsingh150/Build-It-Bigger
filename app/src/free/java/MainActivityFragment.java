@@ -78,7 +78,7 @@ public class MainActivityFragment extends Fragment {
 
     private void setupInterstitialAds() {
         mInterstitialAd = new InterstitialAd(getContext());
-        mInterstitialAd.setAdUnitId("ca-app-pub-3940256099942544/1033173712");
+        mInterstitialAd.setAdUnitId(getActivity().getString(R.string.banner_ad_unit_id));
 
         mInterstitialAd.setAdListener(new AdListener() {
             @Override
