@@ -192,9 +192,5 @@
     <orderEntry type="library" exported="" name="com.android.support:support-vector-drawable-25.0.0" level="project" />
     <orderEntry type="module" module-name="myjoke" exported="" />
     <orderEntry type="module" module-name="myjokes-android" exported="" />
-    <orderEntry type="module" module-name="myjoke" exported="" />
-    <orderEntry type="module" module-name="myjokes-android" exported="" />
-    <orderEntry type="module" module-name="myjoke" exported="" />
-    <orderEntry type="module" module-name="myjokes-android" exported="" />
   </component>
 </module>
